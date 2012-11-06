@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="gb2312"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.retter2012.rtest"
+        id        = "com.retter2012.rbeta1"
         version   = "2.0.0">
-    <name>rtest</name>
+    <name>rbeta1</name>
 
     <description>
-       This is my apps with BDD ideas. Open Source Only! by Roban(jobnet@188.com)
+    This is my apps with FBC ideas. Open source code ONLY. All rights, excluding the codes, are reserved by the authors, i.e. retter2012.com and jobnet@188.com. 
     </description>
 
     <author email="jobnet@188.com">
-        Retter Team
+     retter2012.com and jobnet@188.com
     </author>
 
     <feature name="http://api.phonegap.com/1.0/device" />
