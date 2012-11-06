@@ -32,37 +32,44 @@
 	<meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
 	<title>home</title>
 	<meta name="Author" content="Roban">
-	<meta name="Keywords" content="Retter2012.com">
+	<meta name="Keywords" content="Retter2012">
 	<!-- Dynamic Grid Layouts  -->
 
 </head>
 
 <body bgcolor= "white" background= "" text="black" link="silver" alink="navy" vlink="red">
 	<center>
-	<font size=5>
+	<font size=7>
 	欢迎光临&nbsp Retter2012
-	<h1> <b>栏目内容</b></h1><br>
 	</font>	
-	</center>
 
-	<center>
+	<font size=5>
+	<h1> <b>栏目内容</b></h1><br>
 	<table height="100" border="1">
 		<tr>
 			<td align="center"> 
-			<a href="icon.png"> <img src="icon.png" height="50" vspace="10" hspace="10" alt="点击进入" border="2"></a>
+			<a href="read.html"> <img src="icon.png" height="50" vspace="10" hspace="10" alt="点击进入" border="2"></a>
 			</td>
 			<td>
-			<a href= "temp.html" title="应用程序使用说明"> 帮助：应用程序使用说明 </a>
+			<a href= "read.html" title="帮助说明"> 应用程序使用说明 </a>
+			</td>
+			
+		</tr>
+		<tr>
+			<td align="center"> 
+			<a href="pictemp.html"> <img src="img/zisha1.png" height="50" vspace="10" hspace="10" alt="点击进入" border="2"></a>
+			</td>
+			<td>
+			<a href= "temp.html" title="自杀"> 自杀和杀人的电影 </a>
 			</td>
 		</tr>
-		
 
 	</table> 
-	</center>
+	</font>
+
 
 	<hr size= "3">
 
-	<center>
 	<font size=3>
 	jobnet@188.com&nbsp;&copy;&nbsp;retter2012.com
 	</font>	
