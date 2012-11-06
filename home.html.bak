@@ -49,10 +49,10 @@
 	<table height="100" border="1">
 		<tr>
 			<td align="center"> 
-			<a href="temp.html"> <img src="icon.png" height="50" vspace="10" hspace="10" alt="点击进入" border="2"></a>
+			<a href="icon.png"> <img src="icon.png" height="50" vspace="10" hspace="10" alt="点击进入" border="2"></a>
 			</td>
 			<td>
-			<a href= "read.html" title="应用程序使用说明"> 帮助：应用程序使用说明 </a>
+			<a href= "temp.html" title="应用程序使用说明"> 帮助：应用程序使用说明 </a>
 			</td>
 		</tr>
 		
